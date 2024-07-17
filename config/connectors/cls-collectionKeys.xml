@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:AWS_S3_V4_ListBuckets_1011" connectorServiceName="CCS:AWS_S3_V4_ListBuckets_1011"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
